@@ -17,3 +17,5 @@
 > *git diff* - увидеть разницу между текущим файлом и закоммиченным файлом
 
 ![Иллюстрация к проекту](https://4lapy.ru/resize/800x370/upload/medialibrary/f10/f10cd0408880f408ce7b688d55e65bab.jpg)
+
+https://www.google.com/search?q=Зима+петербург&client=opera-gx&sxsrf=APwXEdflYetyJkMCa3Q9xsZ-LPsTPTVfhg:1685385588535&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPrsHKlpv_AhVKxIsKHaNuABIQ_AUoAXoECAEQAw&biw=1879&bih=970&dpr=1
