@@ -77,5 +77,10 @@ https://www.google.com/search?q=Зима+петербург&client=opera-gx&sxsr
 
 # Команды второго семинара
 
+<<<<<<< HEAD
 > *Git branch [Branch_name]* - создать ветку под названием branch_namegit status
 > *git checkout <Название ветки>* - переход к другой ветке
+=======
+> *Git branch [Branch_name]* - создать ветку под названием branch_name
+> *git brach -d [Имя]* - удалить ветку под названием "[имя]
+>>>>>>> deleting_branch
