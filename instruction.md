@@ -76,6 +76,3 @@ https://www.google.com/search?q=Зима+петербург&client=opera-gx&sxsr
 >1, 2, 3 … – нумерованные списки 
 
 # Команды второго семинара
-
-> *Git branch [Branch_name]* - создать ветку под названием branch_name
-> *git brach -d [Имя]* - удалить ветку под названием "[имя]
