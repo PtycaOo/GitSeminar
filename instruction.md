@@ -94,3 +94,5 @@ https://www.google.com/search?q=Зима+петербург&client=opera-gx&sxsr
 > *git checkout <название ветки>* – переход к другой ветке
 
 > *git branch -d <название ветки>* – удалить ветку
+
+# Основные команды 3го семинара
