@@ -92,3 +92,5 @@ https://www.google.com/search?q=Зима+петербург&client=opera-gx&sxsr
 > *git branch <название ветки>* – создать новую ветку
 
 > *git checkout <название ветки>* – переход к другой ветке
+
+> *git branch -d <название ветки>* – удалить ветку
